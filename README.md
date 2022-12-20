@@ -1,5 +1,5 @@
 👋 Hi, I’m @mtzfox
-- 🌱 My work is currently focused in **React** and **Vue** mostly, but also have been learning some **Typescript** and **Node.js**, and familiarizing myself with **Vite** and a some cool **UI libraries**. I'm also obsessed with [Obsidian Notes](https://obsidian.mikecarlson.io) and [Zettelkasten method](https://zettelkasten.de/introduction/).
+- 🌱 My work is currently focused in learning **React** and **Vue**, but I also have been learning **Typescript** and **Node.js**, and familiarizing myself with **Vite** and a some cool **UI libraries**. I'm also obsessed with [Obsidian Notes](https://obsidian.mikecarlson.io) and [Zettelkasten method](https://zettelkasten.de/introduction/).
 - 👀 I’m working my way through [Vue Mastery](https://www.vuemastery.com/), [Github Codespaces courses](https://www.linkedin.com/learning/topics/hands-on-practice-with-github-codespaces), and improving my React projects with help from [The Road to React](https://www.roadtoreact.com/). 
 - 🛠️ Currently building new Projects for my Portfolio including a Vue authentication app and a gallery for old design projects.
 - 📔 View My [Project Notes](https://obsidian.mikecarlson.io/Project+Notes) to read more about what I'm currently working on.
