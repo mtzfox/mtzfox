@@ -1,15 +1,19 @@
 👋 Hi, I’m @mtzfox
-- 🌱 My work is currently focused in learning **React** and **Vue**, but I also have been learning **Typescript** and **Node.js**, and familiarizing myself with **Vite** and a some cool **UI libraries**. I'm also obsessed with [Obsidian Notes](https://obsidian.mikecarlson.io) and [Zettelkasten method](https://zettelkasten.de/introduction/).
-- 👀 I’m working my way through [Vue Mastery](https://www.vuemastery.com/), [Github Codespaces courses](https://www.linkedin.com/learning/topics/hands-on-practice-with-github-codespaces), and improving my React projects with help from [The Road to React](https://www.roadtoreact.com/). 
-- 🛠️ Currently building new Projects for my Portfolio including a Vue authentication app and a gallery for old design projects.
-- 📔 View My [Project Notes](https://obsidian.mikecarlson.io/Project+Notes) to read more about what I'm currently working on.
+- 🌱 My work is currently focused in learning **React**, **Vue**, **Node.js**, **UI libraries** and associated technology. I'm obsessed with [Obsidian Notes](https://obsidian.mikecarlson.io) and [Zettelkasten method](https://zettelkasten.de/introduction/), spend a lot of time writing and studying new information.
+
+My interest in technology and writing often involve me in different projects.
+- My Obsidian [Project Notes](https://obsidian.mikecarlson.io/Project+Notes) has updates to current personal projects.
+- My [Medium profile](https://medium.com/@mtzfox/subscribe) has published articles.
+- I use [Codesandbox] for testing and learning.
+- I spend time on Discord for Obsidian, [Reactiflux](https://www.reactiflux.com/), and [Vue Mastery](https://www.vuemastery.com/).
+
+[No more distractions](https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/). I try to avoid the major social media sites that make us a product and normalize surveilance. I'm instead motivated towards a WORLD WIDE WEB which builds empathy and empowers us to learn.
 
 📫 Socials: 
 - [mdcarlson@pm.me](mailto:mdcarlson@pm.me) 
 - [LinkedIn](https://www.linkedin.com/in/mike-carlson-dev/)
-- [Codewars](https://www.codewars.com/users/mtzfox) 
-- [Medium](https://medium.com/@redfox.seattle)
-- **I avoid FB and Twitter** and [you](https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/) [can](https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/) [too](https://www.goodreads.com/book/show/39669100-ten-arguments-for-deleting-your-social-media-accounts-right-now)
+- [Medium articles](https://medium.com/@mtzfox/subscribe)
+- [Codewars](https://www.codewars.com/users/mtzfox)
 
 
 
