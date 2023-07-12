@@ -9,7 +9,8 @@ More about what I'm doing online:
 - I use [Codesandbox] for testing and learning and add to Github.
 - I spend time on Discord channels for Obsidian, [Reactiflux](https://www.reactiflux.com/), and [Vue Mastery](https://www.vuemastery.com/).
 
-[No more distractions!](https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/). 
+[No more distractions!](https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/)
+
 I try to avoid the major social media sites aimed at mining personal data and endless scrolling. The WORLD WIDE WEB is still out there and I want to be a part of making it exciting again.
 
 📫 Socials: 
