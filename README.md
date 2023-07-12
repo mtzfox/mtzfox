@@ -1,5 +1,7 @@
 👋 Hi, I’m @mtzfox
-- 🌱 My work is currently focused in learning **React**, **Vue**, **Node.js**, **UI libraries** and associated technology. I'm obsessed with [Obsidian Notes](https://obsidian.mikecarlson.io) and [Zettelkasten method](https://zettelkasten.de/introduction/), spend a lot of time writing and studying new information.
+My programming is currently focused in learning **React**, **Vue**, **Node.js**, **UI libraries** and associated technology. 
+
+I'm obsessed with [Obsidian Notes](https://obsidian.mikecarlson.io) and [Zettelkasten method](https://zettelkasten.de/introduction/), spend a lot of time writing and studying new information.
 
 My interest in technology and writing often involve me in different projects.
 - My Obsidian [Project Notes](https://obsidian.mikecarlson.io/Project+Notes) has updates to current personal projects.
