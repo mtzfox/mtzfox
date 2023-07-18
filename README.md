@@ -1,12 +1,12 @@
 👋 Hi, I’m @mtzfox
 
-My programming is currently focused in learning **React**, **Vue**, **Node.js**, **UI libraries** and associated technology. 
+My programming is currently focused in **JavaScript**, **React**, **Vue**, **Node.js**, **UI libraries** and associated elements. 
 
 More about what I'm doing online:
 - My [Obsidian Publish site](https://obsidian.mikecarlson.io) is apart of a knowledge management project for learning and writing.
 - I keep [Project Notes](https://obsidian.mikecarlson.io/Project+Notes) for updates to current personal projects.
 - I have a [Medium profile](https://medium.com/@mtzfox/subscribe) for publishing articles.
-- I use [Codesandbox](https://codesandbox.io/dashboard/recent?workspace=f3dfe123-3055-4699-b97a-457d4fcb30be) for testing and learning and add to Github.
+- I use [Codesandbox](https://codesandbox.io/dashboard/recent?workspace=f3dfe123-3055-4699-b97a-457d4fcb30be) for testing and learning and add to [Github](https://gist.github.com/mtzfox).
 - I spend time on Discord channels for Obsidian, [Reactiflux](https://www.reactiflux.com/), and [Vue Mastery](https://www.vuemastery.com/).
 
 [No more distractions!](https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/) The WORLD WIDE WEB is still out there and I want to be a part of making it exciting again.
